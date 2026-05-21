@@ -243,11 +243,3 @@ This ensures that users — whether tenants or landlords — enjoy a smooth and 
 
 ## 📜 License
 This project is for academic purposes only. All rights reserved to the authors.
-
-## 📬 Contact
-Have questions? Reach out via:
-
-GitHub: https://github.com/JKPLakshithaDilshan
-
-Email: lakshithadilshan.info@gmail.com
-"# salesphere-property-rental-system" 
