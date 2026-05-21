@@ -91,9 +91,6 @@ Homepage for Users and Landlords
      http://localhost:8080/SaleSphere/
      ```
 
-5. **Sample Credentials**
-   - Use the inserted sample data from the SQL script for testing (e.g., users like 'lakshitha@gmail.com', admins like 'lakshitha@gmail.com').
-
 ## 🖼️ Screenshots
 
 ### 🚀 Login Page
@@ -224,22 +221,3 @@ This architecture ensures:
 - 🔐 Security through session management and hashed passwords.
 - ⚡ Performance with efficient queries and caching where applicable.
 - 📦 Modularity for extensions (e.g., API integration, mobile views).
-
-## 📱 Fully Responsive Design
-
-SaleSphere is built with a mobile-first approach using Tailwind CSS, ensuring seamless responsiveness across all screen sizes — from smartphones and tablets to large desktop monitors.
-
-- Layouts adapt automatically using Tailwind's responsive utility classes.
-- Pages scale and reflow for optimal viewing on small and large devices.
-- Forms, dashboards, tables, and navigation are fully optimized for touch and mouse interaction.
-
-🔍 The design has been tested on:
-- Android and iOS devices
-- Chrome, Firefox, and Edge browsers
-- Desktop resolutions (1366px+, 1920px+)
-- Common breakpoints (`sm`, `md`, `lg`, `xl`)
-
-This ensures that users — whether tenants or landlords — enjoy a smooth and intuitive experience on any device.
-
-## 📜 License
-This project is for academic purposes only. All rights reserved to the authors.
