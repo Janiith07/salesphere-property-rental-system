@@ -63,7 +63,7 @@ Homepage for Users and Landlords
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/JKPLakshithaDilshan/Salesphere-Property-Rental-System.git
+   git clone https://github.com/Janiith07/salesphere-property-rental-system.git
    ```
 
 2. **Open in IDE**
